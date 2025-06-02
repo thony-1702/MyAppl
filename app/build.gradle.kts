@@ -45,4 +45,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation("com.airbnb.android:lottie:6.3.0") // Reemplaza 6.3.0 con la última versión disponible
 }
